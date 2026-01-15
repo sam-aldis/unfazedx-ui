@@ -13,7 +13,7 @@
     "@theia/workspace": "1.36.0",
     "@types/diff": "^3.2.2",
     "@types/p-queue": "^2.3.1",
-    "diff": "^3.4.0",
+    "diff": "^8.0.3",
     "dugite-extra": "0.1.17",
     "find-git-exec": "^0.0.4",
     "find-git-repositories": "^0.1.1",
